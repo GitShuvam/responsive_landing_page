@@ -1,0 +1,31 @@
+0/ Understanding Units
+---> px
+---> %
+---> vw, vh
+---> vmax, vmin
+---> em,rem
+
+1/ Layout of website 
+---> Absolute vs flex
+
+2/ Flexbox
+---> Display flex
+---> Aigning item in X and Y Axis
+---> flex direction
+---> flex wrap
+
+3/ C S S media queries
+---> min height min width
+---> min width , max width
+
+///--/// Key points to keep in mind to make website responsive
+--->>> css Flexbox
+--->>> css Units
+--->>> Responsive Typography
+--->>> Mobile-first approach
+--->>> Flexible Images and media
+
+
+practice practice practice!!!!!!!!!!!!
+
+
